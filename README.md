@@ -32,7 +32,8 @@ In the initial data preparation phase we performed the following tasks:
 The best movie was...
 The best actor was...
 etc
-
+![Dashboard 1](https://github.com/user-attachments/assets/23a5b151-75f0-4787-b481-9443d6fd92d0)
+![Dashboard 2](https://github.com/user-attachments/assets/ce88e07d-fa97-4a76-908c-9375e7a4e645)
 ### Challenges
 #### M Language 
 One of interesting features / challenges I was working with was a specific code for Grouping in M language which enable me to Combine genres together for further analysis.
